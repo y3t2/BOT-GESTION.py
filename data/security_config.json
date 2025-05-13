@@ -1,0 +1,11 @@
+{
+    "raid_threshold": 5,
+    "raid_timeframe": 10,
+    "spam_threshold": 5,
+    "spam_timeframe": 5,
+    "max_mentions": 5,
+    "max_emojis": 10,
+    "max_caps": 70,
+    "auto_role": null,
+    "welcome_channel": null
+}
